@@ -23,16 +23,16 @@
 <h2 align="center">Skills</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
-  <code><img title="C++" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/cpp.svg"></code>
-  <code><img title="Python" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/python-original.svg"></code>
-  <code><img title="Problem Solving" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/problemSolving.png"></code>
-  <code><img title="HTML5" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/html5.svg"></code>
-  <code><img title="CSS" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/css.svg"></code>
-  <code><img title="Git" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/vscode.png"></code>
-  <code><img title="GitHub" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/github.svg"></code>
-  <code><img title="MySQL" height="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/mysql.svg"></code>
+  <code><img title="C" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
+  <code><img title="C++" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/cpp.svg"></code>
+  <code><img title="Python" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/python-original.svg"></code>
+  <code><img title="Problem Solving" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/problemSolving.png"></code>
+  <code><img title="HTML5" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/html5.svg"></code>
+  <code><img title="CSS" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/css.svg"></code>
+  <code><img title="Git" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/vscode.png"></code>
+  <code><img title="GitHub" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/github.svg"></code>
+  <code><img title="MySQL" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/mysql.svg"></code>
 </p>
 <hr>
 
