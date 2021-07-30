@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=9fef00&size=30&center=true&vCenter=true&width=550&lines=Hi!+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
   </a>
 </h1>
-<h5 align="center">
+<h4 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/linkedin.svg"> LinkedIn</a>
   </code>
