@@ -26,10 +26,10 @@
 </h5>
 
 <br>
-<p align="center">I caught 🔥 coding.
+<p align="center">
   <br>
   <br>
-  🎓 RMIT Melbourne - Masters IT
+  🎓 RMIT - Masters IT
   🎓 IIM Kashipur - Masters MBA
   🎓 USICT - Bachelors IT
 </p>
