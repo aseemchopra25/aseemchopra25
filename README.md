@@ -2,14 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=149414&size=30&center=true&vCenter=true&width=550&lines=Hi!+👋+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
+    <img src="https://readme-typing-svg.herokuapp.com?color=99ff3d&size=30&center=true&vCenter=true&width=550&lines=Hi!+👋+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
   </a>
 </h1>
 
-- 👋 Hi, I’m Aseem
-- 👀 I’m interested in algorithms, datastructures and vulnerability assessment.
-- 🌱 I’m currently learning exploit development in with Python and Bash
-- 💞️ I’m looking to collaborate on cool opensource projects
-- 📫 Contact me on aseemchopra@protonmail.com
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="22" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/aseemchopra25/" title="Instagram Profile"><img width="22" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/instagram.svg"> Instagram</a></code>
+  <code>
+    <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="22" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/linkedin.svg"> HackTheBox</a></code>
+</h5>
+
+
 
 
