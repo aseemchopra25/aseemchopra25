@@ -46,8 +46,6 @@
   <code><img title="CSS" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/css.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/mysql.svg"></code>
 </p>
