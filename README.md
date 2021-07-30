@@ -39,26 +39,29 @@
 <h2 align="center">Profile Statistics</h2>
 <br>
 <p align=center>
-  <div align=center>
+  
+  <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=aseemchopra25&theme=dark&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" alt="aseemchopra25" />
     </a>
   </div>
-  <div align=center>
+  
+  <div align=right>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=aseemchopra25&show_icons=true&theme=dark&icon_color=9fef00&hide_border=true" />
     </a>
   </div>
 
-  <div align=center>
+  <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=396 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemchopra25&&theme=dark&title_color=9fef00&text_color=ffffff&icon_color=9fef00&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
-  <div align=center>
+  <div align=right>
   <img width=396 src="https://activity-graph.herokuapp.com/graph?username=aseemchopra25&theme=dark&bg_color=151515&hide_border=true&line=9fef00&point=9fef00&color=9fef00" width=396/>
   </div>
+
 </p>
 
 <hr>
