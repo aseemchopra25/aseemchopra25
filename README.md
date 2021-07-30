@@ -19,13 +19,6 @@
   </code>
 </h5>
 <br>
-<p align="center">
-  <br>
-  <br>
-  🎓 RMIT - Masters IT 
-  🎓 IIM Kashipur - Masters MBA
-  🎓 USICT - Bachelors IT
-</p>
 <hr>
 <h2 align="center">Skills</h2>
 <br>
