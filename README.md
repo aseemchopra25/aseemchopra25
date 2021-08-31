@@ -66,4 +66,8 @@
 <hr>
 <h2 align="center">Profile Statistics</h2>
 <br>
+<p align=center>
+  <div align=center>
 <a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=396 src="https://raw.githubusercontent.com/aseemchopra25/external-files/fda44c3545cc0f7f0c9afc0a3f21381a8b36fa3a/resume.svg" /></a>
+  </div>
+</p>
