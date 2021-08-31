@@ -65,4 +65,5 @@
 </p>
 
 <hr>
-:paperclip: [My Resume](https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf)
+:paperclip: 
+[My Resume](https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf)
