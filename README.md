@@ -68,6 +68,6 @@
 <br>
 <p align=center>
   <div align=center>
-<a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=50 src="https://raw.githubusercontent.com/aseemchopra25/external-files/fda44c3545cc0f7f0c9afc0a3f21381a8b36fa3a/resume.svg" /></a>
+<a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=50 src="https://raw.githubusercontent.com/aseemchopra25/external-files/0ad70db7b47f0881d9e6aa8dc47d56744f2d6b47/resume2.svg" /></a>
   </div>
 </p>
