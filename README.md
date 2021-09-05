@@ -1,4 +1,4 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=aseemchopra25.aseemchopra25">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aseemchopra25.aseemchopra25">
 <h1 align="center">
   <a href="https://github.com/aseemchopra25">
     <img src="https://readme-typing-svg.herokuapp.com?color=9fef00&size=30&center=true&vCenter=true&width=550&lines=Hi!+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
