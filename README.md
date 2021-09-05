@@ -18,7 +18,7 @@
   <code>
     <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/protonmail.svg"> Contact Me</a>
   </code>
-</h5>
+</h4>
 <br>
 <hr>
 <h2 align="center">Skills</h2>
