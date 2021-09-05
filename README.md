@@ -7,7 +7,6 @@
 </h1>
 <hr>
 <h2 align="center">Skills</h2>
-<br>
 <p align="center">
   <code><img title="C" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
   <code><img title="C++" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/cpp.svg"></code>
@@ -21,11 +20,9 @@
   <code><img title="MySQL" height="60" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/mysql.svg"></code>
 </p>
 <hr>
-
 <h2 align="center">Profile Statistics</h2>
 <br>
 <p align=center>
-  
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=aseemchopra25&theme=dark&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" alt="aseemchopra25" />
