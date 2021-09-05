@@ -5,8 +5,6 @@
   </a>
     <img src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/coder.gif">
 </h1>
-
-<br>
 <hr>
 <h2 align="center">Skills</h2>
 <br>
