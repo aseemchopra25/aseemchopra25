@@ -70,4 +70,4 @@
     <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/protonmail.svg"> Contact Me</a>
   </code>
 </h4>
-<img align="center" width="396" src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/bottom_header.svg">
+<img align="center" src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/bottom_header.svg">
