@@ -51,7 +51,7 @@
 <br>
 <p align=center>
   <div align=center>
-<a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=50 src="https://raw.githubusercontent.com/aseemchopra25/external-files/0c8c8ce2213e92662daaae756b29ad0c6058c28b/resume.svg" /></a>
+<a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=50 src="https://raw.githubusercontent.com/aseemchopra25/external-files/0c8c8ce2213e92662daaae756b29ad0c6058c28b/resume2.svg" /></a>
     <br>
   </div>
 </p>
