@@ -12,12 +12,7 @@
   <code><img title="C" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
   <code><img title="C++" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/cpp.svg"></code>
   <code><img title="Python" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/python-original.svg"></code>
-  <code><img title="HTML5" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/html5.svg"></code>
-  <code><img title="CSS" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/css.svg"></code>
   <code><img title="Git" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/vscode.png"></code>
-  <code><img title="GitHub" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/github.svg"></code>
-  <code><img title="MySQL" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/mysql.svg"></code>
 </p>
 <hr>
 <h2 align="center">Profile Statistics</h2>
