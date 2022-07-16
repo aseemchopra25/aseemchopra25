@@ -40,9 +40,6 @@
   </div>
 
 </p>
-<hr>
-<h2 align="center">Feel free to reach out to me :)</h2>
-<hr>
 <h4 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/linkedin.svg"> LinkedIn</a>
