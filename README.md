@@ -8,10 +8,10 @@
 <hr>
 <h2 align="center">Skills</h2>
 <p align="center">
+  <code><img title="Go" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/go.svg"></code>
   <code><img title="C" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
   <code><img title="C++" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/cpp.svg"></code>
   <code><img title="Python" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/python-original.svg"></code>
-  <code><img title="Problem Solving" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/problemSolving.png"></code>
   <code><img title="HTML5" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/html5.svg"></code>
   <code><img title="CSS" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/css.svg"></code>
   <code><img title="Git" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
