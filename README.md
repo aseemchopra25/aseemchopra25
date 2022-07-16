@@ -41,14 +41,7 @@
 
 </p>
 <hr>
-<h2 align="center">Check out my Resume/CV Below!</h2>
-<br>
-<p align=center>
-  <div align=center>
-<a href="https://github.com/aseemchopra25/external-files/blob/main/AseemChopra-Resume.pdf"><img align="center" width=50 src="https://raw.githubusercontent.com/aseemchopra25/external-files/0c8c8ce2213e92662daaae756b29ad0c6058c28b/resume2.svg" /></a>
-    <br>
-  </div>
-</p>
+<h2 align="center">Feel free to reach out</h2>
 <hr>
 <h4 align="center">
   <code>
