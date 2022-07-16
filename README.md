@@ -41,7 +41,7 @@
 
 </p>
 <hr>
-<h2 align="center">Feel free to reach out</h2>
+<h2 align="center">Feel free to reach out to me :)</h2>
 <hr>
 <h4 align="center">
   <code>
