@@ -7,12 +7,6 @@
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=aseemchopra25&theme=dark&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" alt="aseemchopra25" />
     </a>
   </div>
-  
-  <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=aseemchopra25&show_icons=true&theme=dark&icon_color=9fef00&hide_border=true" />
-    </a>
-  </div>
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
