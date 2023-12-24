@@ -23,12 +23,6 @@
   <code><img title="Git" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
 </p>
 <hr>
-
-
-  <div align=center>
-  <img width=396 src="https://activity-graph.herokuapp.com/graph?username=aseemchopra25&theme=dark&bg_color=151515&hide_border=true&line=9fef00&point=9fef00&color=9fef00" width=396/>
-  </div>
-
 </p>
 <h4 align="center">
   <code>
