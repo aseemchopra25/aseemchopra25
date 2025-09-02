@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=9fef00&size=30&center=true&vCenter=true&width=550&lines=Hi!+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
   </a>
 </h1>
-<hr>
 <p align="center">
   Security enthusiast and software developer. I enjoy building in Go, C, and Python,
   solving problems, and exploring offensive and defensive security.
