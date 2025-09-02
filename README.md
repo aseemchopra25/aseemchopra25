@@ -24,16 +24,19 @@
   <br>
   <code>💬 Ask me about:</code> Go, C, Python, security labs
 </p>
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img title="Go" height="40" src="img/go.svg" alt="Go" loading="lazy">
+  <img title="C" height="40" src="img/c.svg" alt="C" loading="lazy">
+  <img title="Python" height="40" src="img/python-original.svg" alt="Python" loading="lazy">
+  <img title="Git" height="40" src="img/git-original.svg" alt="Git" loading="lazy">
+</p>
 <h4 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="img/linkedin.svg" alt="" loading="lazy"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="30" src="img/htb.svg" alt="" loading="lazy"> HackTheBox</a>
-  </code>
-  <code>
-    <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="img/protonmail.svg" alt="" loading="lazy"> Contact Me</a>
-  </code>
+  <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="img/linkedin.svg" alt="LinkedIn" loading="lazy"> LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="30" src="img/htb.svg" alt="Hack The Box" loading="lazy"> HackTheBox</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="img/protonmail.svg" alt="Protonmail" loading="lazy"> Contact Me</a>
 </h4>
 <hr>
 <p align="center">
