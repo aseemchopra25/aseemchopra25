@@ -24,16 +24,6 @@
   <br>
   <code>💬 Ask me about:</code> Go, C, Python, security labs
 </p>
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img title="Go" height="40" src="img/go.svg" alt="Go" loading="lazy">
-  &nbsp;&nbsp;
-  <img title="C" height="40" src="img/c.svg" alt="C" loading="lazy">
-  &nbsp;&nbsp;
-  <img title="Python" height="40" src="img/python-original.svg" alt="Python" loading="lazy">
-  &nbsp;&nbsp;
-  <img title="Git" height="40" src="img/git-original.svg" alt="Git" loading="lazy">
-</p>
 <h4 align="center">
   <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="img/linkedin.svg" alt="LinkedIn" loading="lazy"> LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
