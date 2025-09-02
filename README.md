@@ -23,26 +23,10 @@
   <code>🌱 Learning:</code> Advanced Go patterns, Reverse engineering
   <br>
   <code>💬 Ask me about:</code> Go, C, Python, security labs
-  <br>
-  <code>📫 Reach:</code> See links below
-  <br>
-</p>
-<h2 align="center">Skills</h2>
-<p align="center">
-  <code><img title="Go" height="40" src="img/go.svg" alt="Go logo" loading="lazy"></code>
-  <code><img title="C" height="40" src="img/c.svg" alt="C logo" loading="lazy"></code>
-  <code><img title="Python" height="40" src="img/python-original.svg" alt="Python logo" loading="lazy"></code>
-  <code><img title="Git" height="40" src="img/git-original.svg" alt="Git logo" loading="lazy"></code>
-  
-</p>
-<hr>
 </p>
 <h4 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="img/linkedin.svg" alt="" loading="lazy"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/aseemchopra25/" title="Instagram Profile"><img width="30" src="img/instagram.svg" alt="" loading="lazy"> Instagram</a>
   </code>
   <code>
     <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="30" src="img/htb.svg" alt="" loading="lazy"> HackTheBox</a>
@@ -52,15 +36,7 @@
   </code>
 </h4>
 <hr>
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aseemchopra25&show_icons=true&theme=radical&hide_title=true" height="160" loading="lazy">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=aseemchopra25&theme=radical&hide_border=true" height="160" loading="lazy">
-</p>
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemchopra25&layout=compact&theme=radical&langs_count=8" height="160" loading="lazy">
-</p>
-<p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=aseemchopra25&theme=radical&no-frame=true&row=1&column=6" loading="lazy">
 </p>
 <img align="center" src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/bottom_header.svg" alt="Decorative footer banner" loading="lazy">
