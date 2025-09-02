@@ -1,35 +1,35 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aseemchopra25.aseemchopra25">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aseemchopra25.aseemchopra25" alt="Visitor badge" loading="lazy">
 <h2 align="center">Profile Statistics</h2>
 <br>
 <p align=center>
   <h1 align="center">
   <a href="https://github.com/aseemchopra25">
     <img src="https://readme-typing-svg.herokuapp.com?color=9fef00&size=30&center=true&vCenter=true&width=550&lines=Hi!+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
-    <img src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/coder.gif">
   </a>
 </h1>
-<hr>
-<h2 align="center">Skills</h2>
 <p align="center">
-  <code><img title="Go" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/go.svg"></code>
-  <code><img title="C" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/c.svg"></code>
-  <code><img title="Python" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/python-original.svg"></code>
-  <code><img title="Git" height="40" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/git-original.svg"></code>
-</p>
-<hr>
+  Security enthusiast and software developer. I enjoy building in Go, C, and Python,
+  solving problems, and exploring offensive and defensive security.
+  Currently learning more about systems programming and cloud-native tooling.
+  Open to interesting collaborations.
+  <br>
+  <code>⚙️ Tools:</code> Linux, Git, VS Code, Containers
+  <br>
+  <code>🎯 Focus:</code> Systems, Security, Automation
+  <br>
+  <code>🌱 Learning:</code> Advanced Go patterns, Reverse engineering
+  <br>
+  <code>💬 Ask me about:</code> Go, C, Python, security labs
 </p>
 <h4 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/linkedin.svg"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/aseemchopra25/" title="Instagram Profile"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/instagram.svg"> Instagram</a>
-  </code>
-  <code>
-    <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/htb.svg"> HackTheBox</a>
-  </code>
-  <code>
-    <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="https://github.com/aseemchopra25/aseemchopra25/blob/main/img/protonmail.svg"> Contact Me</a>
-  </code>
+  <a href="https://www.linkedin.com/in/aseemchopra/" title="LinkedIn Profile"><img width="30" src="img/linkedin.svg" alt="LinkedIn" loading="lazy"> LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.hackthebox.eu/profile/23243" title="HackTheBox Profile"><img width="30" src="img/htb.svg" alt="Hack The Box" loading="lazy"> HackTheBox</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:aseemchopra@protonmail.com" title="Protonmail"><img width="30" src="img/protonmail.svg" alt="Protonmail" loading="lazy"> Contact Me</a>
 </h4>
-<img align="center" src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/bottom_header.svg">
+<hr>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemchopra25&layout=compact&theme=radical&langs_count=8" height="160" loading="lazy">
+</p>
+<img align="center" src="https://raw.githubusercontent.com/aseemchopra25/external-files/main/bottom_header.svg" alt="Decorative footer banner" loading="lazy">
