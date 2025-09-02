@@ -5,7 +5,7 @@
   <h1 align="center">
   <a href="https://github.com/aseemchopra25">
     <img src="https://readme-typing-svg.herokuapp.com?color=9fef00&size=30&center=true&vCenter=true&width=550&lines=Hi!+I'm+Aseem+Chopra;Welcome+to+my+Github+Profile">
-    <img src=https://raw.githubusercontent.com/aseemchopra25/external-files/refs/heads/main/coder.gif" alt="Coder animation" loading="lazy">
+    <img src=hhttps://github.com/aseemchopra25/external-files/blob/main/coder.gif" alt="Coder animation" loading="lazy">
   </a>
 </h1>
 <hr>
